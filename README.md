@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/halderkendrick" target="blank"><img src="https://img.shields.io/twitter/follow/halderkendrick?logo=twitter&style=for-the-badge" alt="halderkendrick" /></a> </p>
 
-- 🔭 I’m currently working as a Data Entry Operator on **Perennial International (IDB BCS Computer City)**
+- 🔭 I’m currently studying B.Sc in CSE at **United International University (UIU)**
 
 - 🌱 I’m currently learning **React.js**
 
